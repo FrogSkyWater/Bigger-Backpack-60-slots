@@ -3,7 +3,8 @@
 ## Description
 This is a fork of https://github.com/bcmpinc/StardewHack mod BiggerBackpack. All credits goes to @bcmpinc. 
 
-Buy an even bigger backpack at Pierre's for only 50,000g! This backpack has 60 slots.
+Buy an bigger backpack at Pierre's for only 50,000g! This backpack has 48 slots.
+BUY AN EVEN BIGGER BACKPACK AT PIERRE'S FOR ONLY 100,000g! This backpack has 60 slots.
 
 ## Config
 *Note: run Stardew Valley once with this mod enabled to generate the `config.json` file.*
